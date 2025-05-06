@@ -1,6 +1,8 @@
 # 💫 About Me:
 🧑‍💻 I’m Basudev, a tech enthusiast passionate about building smart and interactive tools.<br>🛠️ I’m currently working on a gesture-controlled and job application bot using Python and AI.<br>👯 I’m looking to collaborate on creative AI or computer vision projects.<br>💬 I’m looking for help with deploying Python apps and using advanced AI models.<br>🌱 I’m currently learning OpenCV, software engineering, and gesture-based interaction.<br>⚡ Fun fact: I built a tool that solves math just by drawing in the air with my fingers!<br><br>
 
+<img src="https://github.com/user-attachments/assets/80f0ff87-da6a-4f52-9fd7-e195677b400b" alt="Coding Illustration" width="400"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wandersoul________) 
