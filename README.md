@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=BASUDEV%20MOHARANA&fontSize=70&fontAlignY=35&animation=twinkling&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=55&descSize=20" width="100%"/>
-</p>
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -19,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7CFFA2&center=true&vCenter=true&width=800&lines=Hey+there+👋;I'm+BASUDEV;Full-stack+Development+with+React+%26+Node.js;I+love+turning+futuristic+ideas+into+real+projects+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7CFFA2&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+BASUDEV;Full-stack+Development+with+React+%26+Node.js;I+love+turning+futuristic+ideas+into+real+projects+🚀" alt="Typing SVG" />
 </div>
 
 <br>
