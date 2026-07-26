@@ -51,6 +51,22 @@
 
 <br>
 
+<br>
+
+### 🎧 Live Discord Status
+<div align="center">
+  <a href="https://discord.com/users/1307714028717478008" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1307714028717478008?theme=tokyonight&bg=0D1117&hideDiscrim=true&idleMessage=Building%20something%20awesome..." width="300" alt="Discord Presence" />
+  </a>
+</div>
+
+<br>
+
+### 🛠️ Primary Editor
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
+
 ### ⌨️ My Coding Stats
 <p align="left">
   <a href="https://wakatime.com">
