@@ -42,12 +42,41 @@
 
 <br>
 
-# 💻 Tech Universe 
+<br><br>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,django,aws,mysql,firebase,github,git,opencv,tensorflow&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=60&section=header&text=💻%20Tech%20Universe&fontSize=35&fontAlignY=40&fontColor=ffffff" />
 </div>
 
+<p align="center">
+  <i><font color="#8b949e">"Engineering chaos and building the future, one stack at a time."</font></i>
+</p>
 <br>
+
+<table align="center" border="0" width="100%" style="background-color: transparent;">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <!-- Neon Green Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7CFFA2&center=true&vCenter=true&width=200&lines=Frontend+%26+Core" alt="Frontend" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js,react,python,java&theme=dark&perline=2" style="box-shadow: 0px 4px 15px rgba(124, 255, 162, 0.2);" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <!-- Neon Cyan Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=200&lines=Backend+%26+Cloud" alt="Backend" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,django,aws,firebase&theme=dark&perline=2" style="box-shadow: 0px 4px 15px rgba(0, 240, 255, 0.2);" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <!-- Neon Pink Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0055&center=true&vCenter=true&width=200&lines=Data+%26+AI+Tools" alt="Tools" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,git&theme=dark&perline=2" style="box-shadow: 0px 4px 15px rgba(255, 0, 85, 0.2);" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <br><br>
 
