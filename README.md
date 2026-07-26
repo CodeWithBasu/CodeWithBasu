@@ -49,22 +49,32 @@
 
 <br>
 
-<br>
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0055,50:00F0FF,100:7CFFA2&height=120&section=header&text=Live%20Workspace&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Real-time%20Development%20Status&descAlignY=65&descAlign=50" width="100%" />
+</div>
 
 <br>
+
+<p align="center">
+  <a href="https://discord.com/users/1307714028717478008" target="_blank">
+    <!-- bg=00000000 makes it perfectly transparent! -->
+    <img src="https://lanyard.cnrad.dev/api/1307714028717478008?theme=dark&bg=00000000&animated=true&hideDiscrim=true" width="360" alt="Discord Presence" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wakatime.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode,discord,github,androidstudio&theme=dark&perline=2" width="140" alt="Workspace Arsenal" />
+  </a>
+</p>
 
 <br>
 
 <div align="center">
-  <h3>🎧 Live Status & Workspace</h3>
-  <br>
-  <a href="https://discord.com/users/1307714028717478008" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1307714028717478008?theme=dark&bg=161b22&animated=true&hideDiscrim=true&idleMessage=Building%20something%20awesome...&borderRadius=15px" width="350" alt="Discord Presence" />
-  </a>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,discord&theme=dark" alt="Workspace Icons" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7CFFA2,50:00F0FF,100:FF0055&height=60&section=footer" width="100%" />
 </div>
 
+<br><br>
 <br>
 ### ⌨️ My Coding Stats
 <p align="left">
