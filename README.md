@@ -57,6 +57,11 @@
 
 <br>
 
+### 🌆 3D Contribution City
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
+</div>
+
 ### 🏆 Achievement Gallery
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeWithBasu&theme=tokyonight&no-frame=true&margin-w=15" />
