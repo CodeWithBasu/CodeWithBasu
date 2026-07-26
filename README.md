@@ -20,28 +20,22 @@
 
 <br>
 
-# 💫 About Me 
-
-<table border="0">
+## 🧑‍💻 The Man Behind The Code
+<table border="0" width="100%">
   <tr>
-    <td width="65%">
-      <h3>Hello, World! I'm Basudev 👋</h3>
-      <p>
-        I am a <b>B.Tech Computer Science student at DRIEMS University</b>. As a <b>Web Developer</b>, I specialize in <b>Full-stack development</b> using <b>React & Node.js</b>.
-      </p>
-      <p>
-        My passion lies in bridging the gap between futuristic concepts and real-world applications. I thrive on solving complex problems and building smart, interactive tools.
-      </p>
+    <td width="60%">
+      <p>I am a <b>B.Tech Computer Science student at DRIEMS University</b> and a <b>Full-stack Web & Mobile Developer</b>.</p>
+      <p>My passion lies in bridging the gap between futuristic concepts and real-world applications. I thrive on solving complex problems, building smart interactive tools, and engineering absolute chaos when developing prank apps!</p>
+      <br>
       <ul>
-        <li>🌱 <b>Focus:</b> Mastering advanced Software Engineering and Computer Vision.</li>
-        <li>💬 <b>Interests:</b> Web Automation, UI/UX Design, and AI Integration.</li>
+        <li>🔥 <b>Current Focus:</b> Advanced Software Engineering, Computer Vision, & Mobile UI/UX.</li>
+        <li>💡 <b>Interests:</b> Web Automation, AI Integration, and Native Android (Kotlin).</li>
         <li>⚡ <b>Fun Fact:</b> I built a tool that solves math via air-drawing gestures!</li>
+        <li>👀 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=CodeWithBasu&color=00F0FF&style=flat-square" align="center" /></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-       <img src="https://komarev.com/ghpvc/?username=CodeWithBasu&color=7CFFA2&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor badge" />
-       <br><br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBasu&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius:15px;"/>
     </td>
   </tr>
 </table>
