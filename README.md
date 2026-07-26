@@ -50,6 +50,16 @@
 <br>
 
 <!-- START_STATS -->
+### 🐱 My GitHub Data
+> 📦 1021.4 MB Used in GitHub's Storage
+> <br>
+> 🏆 1296 Contributions this Year
+> <br>
+> 🚫 Not Opted to Hire
+> <br>
+> 📜 30 Public Repositories
+> <br>
+> 🔑 10 Private Repositories
 <!-- END_STATS -->
 
 # 📊 GitHub Insights 
