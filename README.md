@@ -62,9 +62,9 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
 </div>
 
-### 🏆 Achievement Gallery
+### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithBasu&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithBasu&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <hr>
