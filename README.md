@@ -49,6 +49,9 @@
 
 <br>
 
+<!-- START_STATS -->
+<!-- END_STATS -->
+
 # 📊 GitHub Insights 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithBasu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Basu's Stats" height="180px"/>
