@@ -1,21 +1,30 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <!-- The Aesthetic Looping GIF -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" />
 </div>
 
+<br>
+
 <p align="center">
+  <!-- Ultra-Minimalist Floating Social Badges -->
   <a href="https://basudev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0D1117&logoColor=00F0FF&style=for-the-badge" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/basudev-moharana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0D1117&logoColor=0077B5&style=for-the-badge" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/wandersoul________" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0D1117&logoColor=FF0055&style=for-the-badge" height="35" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7CFFA2&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+BASUDEV;Full-stack+Development+with+React+%26+Node.js;I+love+turning+futuristic+ideas+into+real+projects+🚀" alt="Typing SVG" />
+  <!-- Fixed: Premium Modern Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hey+there;I%27m+BASUDEV+MOHARANA;Full-stack+Development+with+React+%26+Node.js;Turning+futuristic+ideas+into+reality" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
 </div>
 
 <br>
