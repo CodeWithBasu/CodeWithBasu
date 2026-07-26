@@ -100,12 +100,28 @@
 > 🔑 10 Private Repositories
 <!-- END_STATS -->
 
-# 📊 GitHub Insights 
+<br><br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithBasu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Basu's Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithBasu&theme=tokyonight&hide_border=true" alt="Basu's Streak" height="180px"/>
+  <!-- Animated Neon Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Insights;⚡+Code+Analytics" alt="Insights" />
 </div>
 
+<br>
+
+<p align="center">
+  <!-- Transparent Background Floating Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithBasu&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="Basu's Stats" height="195px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithBasu&theme=tokyonight&background=00000000&hide_border=true" alt="Basu's Streak" height="195px"/>
+</p>
+
+<div align="center">
+  <!-- Glowing Divider Line -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</div>
+
+<br>
 <br>
 
 ### 🌆 3D Contribution City
