@@ -1,0 +1,23 @@
+name: Update GitHub Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight
+  workflow_dispatch: # Allows manual running
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Python Script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python update_stats.py
+      - name: Commit & Push Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "chore: auto-update github stats" || exit 0
+          git push
