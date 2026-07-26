@@ -49,6 +49,19 @@
 
 <br>
 
+<br>
+
+### ⌨️ My Coding Stats
+<p align="left">
+  <a href="https://wakatime.com">
+    <img src="https://img.shields.io/badge/Code%20Time-385%20hrs%2037%20mins-007ec6?style=flat-square" alt="Code Time" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=CodeWithBasu&color=007ec6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+  <br><br>
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-2.33%20million%20lines%20of%20code-007ec6?style=flat-square" alt="Lines of Code" />
+</p>
+
 <!-- START_STATS -->
 ### 🐱 My GitHub Data
 > 📦 1021.4 MB Used in GitHub's Storage
