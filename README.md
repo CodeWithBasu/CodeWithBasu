@@ -69,5 +69,6 @@
     <img src="https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Status-Active-7CFFA2?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J1a3lpaDAzaWRlNmFrcTNpeDkydDJtaDV3OWx6ZDAwcXExaTJldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" style="border-radius:50%">
+  <p><b>Created with 💖 by BASUDEV</b></p>
 </div>
